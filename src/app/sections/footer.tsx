@@ -19,8 +19,10 @@ const Footer: React.FC<FooterProps> = ({ sponsorsRef, locationRef, agendaRef }) 
                 <button onClick={() => scrollToSection(sponsorsRef)} className="text-lg hover:underline">
                     Sponsors
                 </button>
-                <button onClick={() => scrollToSection(locationRef)} className="text-lg hover:underline">
-                    Location
+                <button className="text-lg hover:underline">
+                    <a href="/badge">
+                        Badge
+                    </a>
                 </button>
                 <button onClick={() => scrollToSection(agendaRef)} className="text-lg hover:underline">
                     Agenda

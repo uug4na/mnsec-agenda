@@ -10,8 +10,8 @@ const SpeakerFooter = () => {
                     </a>
                 </button>
                 <button className="text-lg hover:underline">
-                    <a href="/">
-                        Location
+                    <a href="/badge">
+                        Badge
                     </a>
                 </button>
                 <button className="text-lg hover:underline">
