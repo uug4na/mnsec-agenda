@@ -1,0 +1,131 @@
+[
+    {
+        "title": "8:30 AM – Registration"
+    },
+    {
+        "title": "9:00 AM – Opening"
+    },
+    {
+        "startTime": "9:05 AM",
+        "endTime": "9:35 AM",
+        "title": "Badral Sanlig"
+    },
+    {
+        "startTime": "9:35 AM",
+        "endTime": "10:00 AM",
+        "title": "Nasantogtokh: Year of Reflection, Year of Action of MNCERT/CC",
+        "firstname": "Nasantogtokh"
+    },
+    {
+        "startTime": "10:00 AM",
+        "endTime": "10:30 AM",
+        "title": "Darja-Anna Yurovsky (Switch): Behind the Shield: Tales from the Incident Response Frontline",
+        "firstname": "Darja-Anna"
+    },
+    {
+        "startTime": "10:30 AM",
+        "endTime": "11:00 AM",
+        "title": "Dulmandakh (Aravt Tech): DevSecOps Approach to Software Supply Chain Security Implementation",
+        "firstname": "Dulmandakh"
+    },
+    {
+        "startTime": "11:00 AM",
+        "endTime": "11:20 AM",
+        "title": "Azbayar B (Progrids): Stay Ahead of Adversaries with ESET XDR & ETI",
+        "firstname": "Azbayar"
+    },
+    {
+        "startTime": "11:20 AM",
+        "endTime": "11:45 AM",
+        "title": "Coffee Break"
+    },
+    {
+        "startTime": "11:45 AM",
+        "endTime": "12:05 PM",
+        "title": "Cyberworld"
+    },
+    {
+        "startTime": "12:05 PM",
+        "endTime": "12:35 PM",
+        "title": "Bilegdemberel: macOS Security in the Underground - Exposing Unknown Attack Surfaces",
+        "firstname": "Bilegdemberel"
+    },
+    {
+        "startTime": "12:35 PM",
+        "endTime": "1:05 PM",
+        "title": "Michael Willburn (We Know Cyber): Surviving Cyber Threats for Business, Bring a Friend!",
+        "firstname": "Michael"
+    },
+    {
+        "startTime": "1:05 PM",
+        "endTime": "2:05 PM",
+        "title": "Lunch"
+    },
+    {
+        "startTime": "2:05 PM",
+        "endTime": "2:35 PM",
+        "title": "Ryan Xiong (Proofpoint): Are You Ready for the Changing Email Authentication Requirements?",
+        "firstname": "Ryan"
+    },
+    {
+        "startTime": "2:35 PM",
+        "endTime": "3:05 PM",
+        "title": "Dashzeveg (Unitel): Asset Discovery and Inventory",
+        "firstname": "Dashzeveg"
+    },
+    {
+        "startTime": "3:05 PM",
+        "endTime": "3:35 PM",
+        "title": "Khash-Ochir (NDC): Open Source SOC",
+        "firstname": "Khash-Ochir"
+    },
+    {
+        "startTime": "3:35 PM",
+        "endTime": "3:55 PM",
+        "title": "Palo Alto: TBD"
+    },
+    {
+        "startTime": "3:55 PM",
+        "endTime": "4:20 PM",
+        "title": "Coffee Break"
+    },
+    {
+        "startTime": "4:20 PM",
+        "endTime": "4:40 PM",
+        "title": "Checkpoint: TBD"
+    },
+    {
+        "startTime": "4:40 PM",
+        "endTime": "5:10 PM",
+        "title": "Bat-Ulzii Dashtseren (Sanchir Tech CEO, Intel Software Innovator): Beginner’s Guide to Smart Contract Hacking",
+        "firstname": "Bat-Ulzii"
+    },
+    {
+        "startTime": "5:10 PM",
+        "endTime": "5:40 PM",
+        "title": "Ganchuluun (VKNC): Windows Internals, Security Architecture and Attack Surfaces",
+        "firstname": "Ganchuluun"
+    },
+    {
+        "startTime": "5:40 PM",
+        "endTime": "6:10 PM",
+        "title": "Bilguun (Unitel): Why Not to Trust AI Generated Code",
+        "firstname": "Bilguun"
+    },
+    {
+        "startTime": "6:10 PM",
+        "endTime": "6:40 PM",
+        "title": "Byambadalai (Khaan Bank): Debugging WASM for Hacking",
+        "firstname": "Byambadalai"
+    },
+    {
+        "startTime": "6:40 PM",
+        "endTime": "7:00 PM",
+        "title": "Haruul Zangi Award"
+    },
+    {
+        "startTime": "7:00 PM",
+        "endTime": "7:00 PM",
+        "title": "Closing"
+    }
+]

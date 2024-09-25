@@ -1,0 +1,98 @@
+[
+    {
+        "firstname": "Darja-Anna",
+        "lastname": "Yurovsky",
+        "position": "Senior Security Engineer @ Switch CERT",
+        "topic": "Behind the Shield: Tales from the Incident Response Frontline"
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Willburn",
+        "position": "Chief Security Architect @ We Know Cyber",
+        "topic": "Surviving Cyber Threats for Business, Bring a Friend!"
+    },
+    {
+        "firstname": "Ryan",
+        "lastname": "Xiong",
+        "position": "Senior Engineer @ Proofpoint",
+        "topic": "Are You Ready for the Changing Email Authentication Requirements?"
+    },
+    {
+        "firstname": "Nasantogtokh",
+        "lastname": "Amarsaikhan",
+        "position": "CEO @ MNCERT/CC",
+        "topic": "Year of Reflection, Year of Action of MNCERT/CC"
+    },
+    {
+        "firstname": "Dulmandakh",
+        "lastname": "Sukhbaatar",
+        "position": "Founder/CEO @ Aravt Tech",
+        "topic": "DevSecOps аргачлалаар Software Supply Chain Security хэрэгжүүлсэн туршлага"
+    },
+    {
+        "firstname": "Bilegdemberel",
+        "lastname": "Tugbaatar",
+        "position": "Cybersecurity Expert",
+        "topic": "macOS Security in the Underground - Exposing unknown attack surfaces"
+    },
+    {
+        "firstname": "Dashzeveg",
+        "lastname": "Baatartsogt",
+        "position": "Senior Information Security Analyst @ Unitel Group",
+        "topic": "Asset Discovery and Inventory"
+    },
+    {
+        "firstname": "Khash-Ochir",
+        "lastname": "Buyandelger",
+        "position": "Senior Cybersecurity Analyst@ Mongolian National Datacenter",
+        "topic": "Open Source SOC"
+    },
+    {
+        "firstname": "Ganchuluun",
+        "lastname": "Zorigt",
+        "position": "Co-Founder/CEO @ VKNC",
+        "topic": "Windows Internals, Security Architecture and Attack Surfaces"
+    },
+    {
+        "firstname": "Bilguun",
+        "lastname": "Ganchuluun",
+        "position": "Cyber Security Expert",
+        "topic": "Why Not to Trust AI Generated Code"
+    },
+    {
+        "firstname": "Byambadalai",
+        "lastname": "Sumiya",
+        "position": "Cybersecurity Expert",
+        "topic": "Debugging WASM for Hacking"
+    },
+    {
+        "firstname": "Bat-Ulzii",
+        "lastname": "Dashtseren",
+        "position": "Founder/CEO, Sanchirtech LLC, Ephemeris LLC",
+        "topic": "Beginner’s Guide to Smart Contract Hacking"
+    },
+    {
+        "firstname": "Azbayar",
+        "lastname": "B",
+        "position": "Solution consultant @ Progrid Systems LLC",
+        "topic": "Stay Ahead of Adversaries with ESET XDR & ETI"
+    },
+    {
+        "firstname": "SC",
+        "lastname": "Man",
+        "position": "Product Director @ Cyberworld (Asia) Limited",
+        "topic": "Effective approach to Cybersecurity: Business Best Practices in Digital age"
+    },
+    {
+        "firstname": "Orcun",
+        "lastname": "Tezel",
+        "position": "Vice President, Technical Solutions & Principal Architects @ Asia Pacific & Japan, Pao Alto Networks",
+        "topic": "REIMAGINING CYBERSECURITY WITH PRECISION AI"
+    },
+    {
+        "firstname": "Andy",
+        "lastname": "Choi",
+        "position": "Head of Threat Prevention,Harmony Solution,  @ Checkpoint",
+        "topic": "BEYOND TRADITIONAL CYBER THREATS - THE RISE OF GENERATIVE AI AND PHISHING ATTACKS"
+    }
+]
