@@ -1,5 +1,12 @@
 [
     {
+        "firstname": "Badral",
+        "lastname": "Sanlig",
+        "position": "Founder @ Voicy",
+        "topic": "Keynote"
+
+    },
+    {
         "firstname": "Darja-Anna",
         "lastname": "Yurovsky",
         "position": "Senior Security Engineer @ Switch CERT",
@@ -116,7 +123,7 @@
     {
         "firstname": "King",
         "lastname": "Zhang",
-        "position": "Cyber Security Expert (Infoblox)",
+        "position": "GC Senior Solutions Architect",
         "topic": "How to protect sensitive data against insider threat?"
     },
     {
