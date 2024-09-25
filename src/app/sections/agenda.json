@@ -8,7 +8,7 @@
     {
         "startTime": "9:05 AM",
         "endTime": "9:35 AM",
-        "title": "Badral Sanlig"
+        "title": "Badral Sanlig: Keynote Speech"
     },
     {
         "startTime": "9:35 AM",
@@ -31,8 +31,8 @@
     {
         "startTime": "11:00 AM",
         "endTime": "11:20 AM",
-        "title": "Azbayar B (Progrids): Stay Ahead of Adversaries with ESET XDR & ETI",
-        "firstname": "Azbayar"
+        "title": "Andy Choy: BEYOND TRADITIONAL CYBER THREATS - THE RISE OF GENERATIVE AI AND PHISHING ATTACKS",
+        "firstname": "Andy"
     },
     {
         "startTime": "11:20 AM",
@@ -42,7 +42,8 @@
     {
         "startTime": "11:45 AM",
         "endTime": "12:05 PM",
-        "title": "Cyberworld"
+        "title": "Orcun Tezel: REIMAGINING CYBERSECURITY WITH PRECISION AI",
+        "firstname": "Orcun"
     },
     {
         "startTime": "12:05 PM",
@@ -52,47 +53,49 @@
     },
     {
         "startTime": "12:35 PM",
-        "endTime": "1:05 PM",
-        "title": "Michael Willburn (We Know Cyber): Surviving Cyber Threats for Business, Bring a Friend!",
-        "firstname": "Michael"
+        "endTime": "12:55 PM",
+        "title": "Azbayar Bat-Ochir: STAY AHEAD OF ADVERSARIES WITH ESET XDR&ETI",
+        "firstname": "Azbayar"
     },
     {
-        "startTime": "1:05 PM",
-        "endTime": "2:05 PM",
+        "startTime": "12:55 PM",
+        "endTime": "1:55 PM",
         "title": "Lunch"
     },
     {
-        "startTime": "2:05 PM",
-        "endTime": "2:35 PM",
+        "startTime": "1:55 PM",
+        "endTime": "2:25 PM",
         "title": "Ryan Xiong (Proofpoint): Are You Ready for the Changing Email Authentication Requirements?",
         "firstname": "Ryan"
     },
     {
-        "startTime": "2:35 PM",
-        "endTime": "3:05 PM",
+        "startTime": "2:25 PM",
+        "endTime": "2:55 PM",
         "title": "Dashzeveg (Unitel): Asset Discovery and Inventory",
         "firstname": "Dashzeveg"
     },
     {
-        "startTime": "3:05 PM",
-        "endTime": "3:35 PM",
+        "startTime": "2:55 PM",
+        "endTime": "3:25 PM",
         "title": "Khash-Ochir (NDC): Open Source SOC",
         "firstname": "Khash-Ochir"
     },
     {
-        "startTime": "3:35 PM",
-        "endTime": "3:55 PM",
-        "title": "Palo Alto: TBD"
+        "startTime": "3:25 PM",
+        "endTime": "3:45 PM",
+        "title": "SC Man: EFFECTIVE APPROACH TO CYBERSECURITY: BUSINESS BEST PRACTICES IN DIGITAL AGE",
+        "firstname":"sc"
     },
     {
-        "startTime": "3:55 PM",
-        "endTime": "4:20 PM",
+        "startTime": "3:45 PM",
+        "endTime": "4:10 PM",
         "title": "Coffee Break"
     },
     {
-        "startTime": "4:20 PM",
+        "startTime": "4:10 PM",
         "endTime": "4:40 PM",
-        "title": "Checkpoint: TBD"
+        "title": "Michael Willburn: SURVIVING CYBER THREATS FOR BUSINESS, BRING A FRIEND!",
+        "firstname": "Michael"
     },
     {
         "startTime": "4:40 PM",

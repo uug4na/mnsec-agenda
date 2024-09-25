@@ -94,5 +94,41 @@
         "lastname": "Choi",
         "position": "Head of Threat Prevention,Harmony Solution,  @ Checkpoint",
         "topic": "BEYOND TRADITIONAL CYBER THREATS - THE RISE OF GENERATIVE AI AND PHISHING ATTACKS"
+    },
+    {
+        "firstname": "Elena",
+        "lastname": "Sozinova",
+        "position": "Cyber Security Expert (ESET)",
+        "topic": "How to protect sensitive data against insider threat?"
+    },
+    {
+        "firstname": "Ryan",
+        "lastname": "Xiong",
+        "position": "Cyber Security Expert",
+        "topic": "Proofpoint Threat Protection"
+    },
+    {
+        "firstname": "Chok",
+        "lastname": "Chiat Ho",
+        "position": "Cyber Security Expert (Crowdstrike)",
+        "topic": "How to protect sensitive data against insider threat?"
+    },
+    {
+        "firstname": "King",
+        "lastname": "Zhang",
+        "position": "Cyber Security Expert (Infoblox)",
+        "topic": "How to protect sensitive data against insider threat?"
+    },
+    {
+        "firstname": "Pang",
+        "lastname": "Zhi Hao",
+        "position": "Cyber Security Expert (Hashicorp)",
+        "topic": "Security Lifecycle Management with Vault"
+    },
+    {
+        "firstname": "Rene",
+        "lastname": "Hostettler",
+        "position": "Cyber Security Expert (Protelion)",
+        "topic": "Secure Communication"
     }
 ]

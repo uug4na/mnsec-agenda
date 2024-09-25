@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import agendaItems from './agenda.json';
+import agendaItems2 from './agenda2.json';
 
 const Agenda = () => {
     const [showAgenda, setShowAgenda] = useState(true);
@@ -15,14 +16,14 @@ const Agenda = () => {
                         onClick={() => setShowAgenda(true)}
                         className={`text-[10px] md:text-[30px] lg:text-[40px] px-4 py-2 flex-grow ${showAgenda ? 'bg-black' : 'bg-gray-500'}`}
                     >
-                        Agenda 1
+                        Stage 1
                     </button>
                     <div className="w-[2px] bg-gray-500"></div>
                     <button
                         onClick={() => setShowAgenda(false)}
                         className={`text-[10px] md:text-[30px] lg:text-[40px] px-4 py-2 flex-grow ${!showAgenda ? 'bg-black' : 'bg-gray-500'}`}
                     >
-                        Agenda 2
+                        Stage 2
                     </button>
                 </div>
 
@@ -44,9 +45,21 @@ const Agenda = () => {
                             </div>
                         ))
                     ) : (
-                        <div className="text-[24px] md:text-[40px] lg:text-[60px] my-3 px-4">
-                            <p>test content</p>
-                        </div>
+                        agendaItems2.map((item, index) => (
+                            <div key={index} className="text-[10px] md:text-[30px] lg:text-[40px] my-3 px-4">
+                                {item.startTime && item.endTime ? (
+                                    <span>{item.startTime} – {item.endTime} – </span>
+                                ) : null}
+
+                                {item.firstname ? (
+                                    <a href={`/speakers/${item.firstname}`} className="underline">
+                                        <span>{item.title}</span>
+                                    </a>
+                                ) : (
+                                    <span>{item.title}</span>
+                                )}
+                            </div>
+                        ))
                     )}
                 </div>
             </div>

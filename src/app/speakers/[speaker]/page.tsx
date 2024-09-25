@@ -1,6 +1,7 @@
+"use client"
+import { useState } from "react";
 import Image from "next/image";
 import speakers from "../../sections/speakers.json";
-
 
 interface Speaker {
     firstname: string;
@@ -9,14 +10,21 @@ interface Speaker {
     topic: string;
 }
 
-
 export default function Page({ params }: { params: { speaker: string } }) {
-    const speaker: Speaker | undefined = speakers.find(spk => spk.firstname.toLowerCase() === params.speaker.toLowerCase());
-    const fullName = `${speaker?.firstname ?? ''} ${speaker?.lastname ?? ''}`.trim();
+    const speaker: Speaker | undefined = speakers.find(
+        (spk) => spk.firstname.toLowerCase() === params.speaker.toLowerCase()
+    );
+    const fullName = `${speaker?.firstname ?? ""} ${speaker?.lastname ?? ""}`.trim();
+
+    const [imgSrc, setImgSrc] = useState(`/${params.speaker}.svg`);
 
     if (!speaker) {
         return <div>Speaker not found</div>;
     }
+
+    const handleImageError = () => {
+        setImgSrc(`/${params.speaker}.jpg`);
+    };
 
     return (
         <div className="h-screen flex flex-col md:flex-row lg:flex-row  justify-center gap-20 mx-8 md:mx-5 lg:mx-20 bg-black">
@@ -25,10 +33,20 @@ export default function Page({ params }: { params: { speaker: string } }) {
                 </div>
                 <div className="text-[#B1D572]">
                     <div>
-                        <Image src={'/' + params.speaker + '.svg'} width={310} height={310} alt="image" />
+                        <Image
+                            src={imgSrc}
+                            width={310}
+                            height={310}
+                            alt="image"
+                            onError={handleImageError}
+                        />
                     </div>
-                    <div className="text-[20px] md:text-[30px] lg:text-[48px] font-semibold mt-5">{fullName}</div>
-                    <div className="text-[16px] md:text-[20px] lg:text-[24px] font-extralight">{speaker.position}</div>
+                    <div className="text-[20px] md:text-[30px] lg:text-[48px] font-semibold mt-5">
+                        {fullName}
+                    </div>
+                    <div className="text-[16px] md:text-[20px] lg:text-[24px] font-extralight">
+                        {speaker.position}
+                    </div>
                     <div className="text-[16px] md:text-[20px] lg:text-[30px] font-semibold mt-16">
                         {speaker.topic}
                     </div>
@@ -38,7 +56,13 @@ export default function Page({ params }: { params: { speaker: string } }) {
             <div className="bg-[url('/bg.gif')] bg-cover bg-no-repeat">
                 <div className="md-0 md:mt-20 lg:mt-20">
                     <div className="">
-                        <Image src={'/small-logo.svg'} width={547} height={107} alt="image" className="relative z-10 backdrop-blur-sm" />
+                        <Image
+                            src={'/small-logo.svg'}
+                            width={547}
+                            height={107}
+                            alt="image"
+                            className="relative z-10 backdrop-blur-sm"
+                        />
                     </div>
                 </div>
             </div>
