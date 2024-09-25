@@ -98,19 +98,19 @@
     {
         "firstname": "Elena",
         "lastname": "Sozinova",
-        "position": "Cyber Security Expert (ESET)",
+        "position": "Channel Account Manager",
         "topic": "How to protect sensitive data against insider threat?"
     },
     {
         "firstname": "Ryan",
         "lastname": "Xiong",
-        "position": "Cyber Security Expert",
+        "position": "Senior Engineer @ Proofpoint",
         "topic": "Proofpoint Threat Protection"
     },
     {
         "firstname": "Chok",
         "lastname": "Chiat Ho",
-        "position": "Cyber Security Expert (Crowdstrike)",
+        "position": "Head, Sales Engineering (SENA), CrowdStrike",
         "topic": "How to protect sensitive data against insider threat?"
     },
     {
@@ -122,13 +122,13 @@
     {
         "firstname": "Pang",
         "lastname": "Zhi Hao",
-        "position": "Cyber Security Expert (Hashicorp)",
+        "position": "Solutions Engineer",
         "topic": "Security Lifecycle Management with Vault"
     },
     {
         "firstname": "Rene",
         "lastname": "Hostettler",
-        "position": "Cyber Security Expert (Protelion)",
+        "position": "Vice President, International Sales",
         "topic": "Secure Communication"
     }
 ]
