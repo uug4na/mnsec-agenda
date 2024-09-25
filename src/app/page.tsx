@@ -10,7 +10,6 @@ import Footer from "./sections/footer";
 
 export default function Home() {
     const sponsorsRef = useRef(null);
-    const locationRef = useRef(null);
     const agendaRef = useRef(null);
 
     return (
@@ -20,7 +19,7 @@ export default function Home() {
                 <div ref={sponsorsRef}>
                     <Sponsors />
                 </div>
-                <div ref={locationRef}>
+                <div>
                     <Location />
                 </div>
                 <div>
@@ -31,7 +30,7 @@ export default function Home() {
                 </div>
                 <LastBackground />
             </div>
-            <Footer sponsorsRef={sponsorsRef} locationRef={locationRef} agendaRef={agendaRef} />
+            <Footer sponsorsRef={sponsorsRef} agendaRef={agendaRef} />
         </div>
     );
 }

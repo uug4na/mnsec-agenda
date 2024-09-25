@@ -4,11 +4,10 @@ import { RefObject } from "react";
 
 interface FooterProps {
     sponsorsRef: RefObject<HTMLDivElement>;
-    locationRef: RefObject<HTMLDivElement>;
     agendaRef: RefObject<HTMLDivElement>;
 }
 
-const Footer: React.FC<FooterProps> = ({ sponsorsRef, locationRef, agendaRef }) => {
+const Footer: React.FC<FooterProps> = ({ sponsorsRef, agendaRef }) => {
     const scrollToSection = (sectionRef: RefObject<HTMLDivElement>) => {
         sectionRef.current?.scrollIntoView({ behavior: "smooth" });
     };
