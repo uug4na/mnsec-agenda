@@ -6,12 +6,12 @@
     },
     {
         "startTime": "10:30 AM",
-        "endTime": "11:00 AM",
+        "endTime": "10:55 AM",
         "title": "Elena Sozinova (ESET): How to protect sensitive data against insider threat?",
         "firstname": "Elena"
     },
     {
-        "startTime": "11:00 AM",
+        "startTime": "10:55 AM",
         "endTime": "11:20 AM",
         "title": "Ryan Xiong (Proofpoint): Proofpoint Threat Protection",
         "firstname": "Ryan"
@@ -19,21 +19,21 @@
     {
         "startTime": "11:20 AM",
         "endTime": "11:45 AM",
-        "title": "Coffee break"
+        "title": "Scavenger Hunt Dashboard Streaming"
     },
     {
         "startTime": "11:45 AM",
-        "endTime": "12:05 PM",
+        "endTime": "12:10 PM",
         "title": "Chok Chiat Ho (Crowdstrike): The Anatomy of a Scattered Spider Attack",
         "firstname": "Chok"
     },
     {
         "startTime": "12:05 PM",
-        "endTime": "12:35 PM",
+        "endTime": "12:30 PM",
         "title": "Scavenger Hunt Dashboard Streaming"
     },
     {
-        "startTime": "12:35 PM",
+        "startTime": "12:30 PM",
         "endTime": "12:55 PM",
         "title": "King Zhang (Infoblox): Protection DNS",
         "firstname": "King"
@@ -45,12 +45,12 @@
     },
     {
         "startTime": "13:55 PM",
-        "endTime": "14:25 PM",
+        "endTime": "14:20 PM",
         "title": "Pang Zhi Hao (Hashicorp):  Security Lifecycle Management with Vault",
         "firstname": "Pang"
     },
     {
-        "startTime": "14:25 PM",
+        "startTime": "14:20 PM",
         "endTime": "15:45 PM",
         "title": "HZ Dashboard Streaming (Start to allow HZ supporters)"
     },
