@@ -25,67 +25,67 @@
     },
     {
         "startTime": "10:30 AM",
-        "endTime": "11:00 AM",
-        "title": "Dulmandakh (Aravt Tech): DevSecOps Approach to Software Supply Chain Security Implementation",
-        "firstname": "Dulmandakh"
-    },
-    {
-        "startTime": "11:00 AM",
-        "endTime": "11:20 AM",
-        "title": "Andy Choy: BEYOND TRADITIONAL CYBER THREATS - THE RISE OF GENERATIVE AI AND PHISHING ATTACKS",
-        "firstname": "Andy"
-    },
-    {
-        "startTime": "11:20 AM",
-        "endTime": "11:45 AM",
-        "title": "Coffee Break"
-    },
-    {
-        "startTime": "11:45 AM",
-        "endTime": "12:05 PM",
-        "title": "Orcun Tezel: REIMAGINING CYBERSECURITY WITH PRECISION AI",
-        "firstname": "Orcun"
-    },
-    {
-        "startTime": "12:05 PM",
-        "endTime": "12:35 PM",
-        "title": "Bilegdemberel: macOS Security in the Underground - Exposing Unknown Attack Surfaces",
-        "firstname": "Bilegdemberel"
-    },
-    {
-        "startTime": "12:35 PM",
-        "endTime": "12:55 PM",
+        "endTime": "10:50 AM",
         "title": "Azbayar Bat-Ochir: STAY AHEAD OF ADVERSARIES WITH ESET XDR&ETI",
         "firstname": "Azbayar"
     },
     {
-        "startTime": "12:55 PM",
-        "endTime": "1:55 PM",
+        "startTime": "10:50 AM",
+        "endTime": "11:10 AM",
+        "title": "Andy Choy: BEYOND TRADITIONAL CYBER THREATS - THE RISE OF GENERATIVE AI AND PHISHING ATTACKS",
+        "firstname": "Andy"
+    },
+    {
+        "startTime": "11:10 AM",
+        "endTime": "11:35 AM",
+        "title": "Coffee Break"
+    },
+    {
+        "startTime": "11:35 AM",
+        "endTime": "11:55 PM",
+        "title": "Orcun Tezel: REIMAGINING CYBERSECURITY WITH PRECISION AI",
+        "firstname": "Orcun"
+    },
+    {
+        "startTime": "11:55 PM",
+        "endTime": "12:25 PM",
+        "title": "Bilegdemberel: macOS Security in the Underground - Exposing Unknown Attack Surfaces",
+        "firstname": "Bilegdemberel"
+    },
+    {
+        "startTime": "12:25 PM",
+        "endTime": "12:45 PM",
+        "title": "SC Man: EFFECTIVE APPROACH TO CYBERSECURITY: BUSINESS BEST PRACTICES IN DIGITAL AGE",
+        "firstname": "sc"
+    },
+    {
+        "startTime": "12:45 PM",
+        "endTime": "1:45 PM",
         "title": "Lunch"
     },
     {
-        "startTime": "1:55 PM",
-        "endTime": "2:25 PM",
+        "startTime": "1:45 PM",
+        "endTime": "2:15 PM",
         "title": "Ryan Xiong (Proofpoint): Are You Ready for the Changing Email Authentication Requirements?",
         "firstname": "Ryan"
     },
     {
-        "startTime": "2:25 PM",
-        "endTime": "2:55 PM",
+        "startTime": "2:15 PM",
+        "endTime": "2:45 PM",
         "title": "Dashzeveg (Unitel): Asset Discovery and Inventory",
         "firstname": "Dashzeveg"
     },
     {
-        "startTime": "2:55 PM",
-        "endTime": "3:25 PM",
+        "startTime": "2:45 PM",
+        "endTime": "3:15 PM",
         "title": "Khash-Ochir (NDC): Open Source SOC",
         "firstname": "Khash-Ochir"
     },
     {
-        "startTime": "3:25 PM",
+        "startTime": "3:15 PM",
         "endTime": "3:45 PM",
-        "title": "SC Man: EFFECTIVE APPROACH TO CYBERSECURITY: BUSINESS BEST PRACTICES IN DIGITAL AGE",
-        "firstname":"sc"
+        "title": "Dulmandakh Sukhbaatar",
+        "firstname":"Dulmandakh"
     },
     {
         "startTime": "3:45 PM",
