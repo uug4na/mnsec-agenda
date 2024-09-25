@@ -1,4 +1,3 @@
-import Image from "next/image";
 const Location = () => {
     return (
         <div className="bg-[url('/bg-2.svg')] bg-cover bg-center">
