@@ -16,14 +16,14 @@ export default function Page({ params }: { params: { speaker: string } }) {
     );
     const fullName = `${speaker?.firstname ?? ""} ${speaker?.lastname ?? ""}`.trim();
 
-    const [imgSrc, setImgSrc] = useState(`/${params.speaker}.svg`);
+    const [imgSrc, setImgSrc] = useState(`/${params.speaker.toLowerCase()}.svg`);
 
     if (!speaker) {
         return <div>Speaker not found</div>;
     }
 
     const handleImageError = () => {
-        setImgSrc(`/${params.speaker}.jpg`);
+        setImgSrc(`/${params.speaker.toLowerCase()}.jpg`);
     };
 
     return (
